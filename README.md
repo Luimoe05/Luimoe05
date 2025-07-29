@@ -9,14 +9,14 @@
 
 ## 🛠️ Skills & Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&height=40)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&height=40)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&height=40)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&height=40)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&height=40)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&height=40)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&height=40)
-![Web Development](https://img.shields.io/badge/Web%20Development-FD4C5C?style=flat&logo=html5&logoColor=white&height=40)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&height=60)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&height=60)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&height=60)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&height=60)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&height=60)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&height=60)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&height=60)
+![Web Development](https://img.shields.io/badge/Web%20Development-FD4C5C?style=flat&logo=html5&logoColor=white&height=60)
 
 ---
 
