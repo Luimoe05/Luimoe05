@@ -3,6 +3,8 @@
 🎓 I'm currently a Computer Science student at **Florida International University** and a **SWE Intern at Salesforce** (FTL Intern).  
 💻 I love building impactful projects that help my community and push my skills forward.
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Luis,+a+CS+student+and+SWE+intern.;I+love+building+AI+powered+apps.;Welcome+to+my+GitHub+profile!;)
+
 ---
 
 ## 🛠️ Skills & Technologies
