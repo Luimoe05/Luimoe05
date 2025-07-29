@@ -5,13 +5,16 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Skills & Technologies
 
-- **Languages:** Java, JavaScript, Python
-- **Frontend:** React
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL
-- **Other:** Web Development, Full-Stack Engineering
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-FD4C5C?style=flat&logo=html5&logoColor=white)
 
 ---
 
