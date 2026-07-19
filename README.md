@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Luis-Angel Moreno 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Luis-Angel%20Moreno&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20Intern%20%40%20Salesforce%20%C2%B7%20CS%20%40%20FIU&descAlignY=54&descSize=18" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi+there!+I'm+Luis%2C+a+CS+student+%26+SWE+intern.;Currently+building+infra+tools+%40+Salesforce.;I+love+shipping+AI-powered+developer+tools.;Welcome+to+my+GitHub+profile!)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luismoreno.space-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.luismoreno.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisanm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisanm/)
 [![Email](https://img.shields.io/badge/Email-luismore200528%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismore200528@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luimoe05&label=Profile%20Views&color=8b5cf6&style=flat-square)
 
 </div>
 
@@ -51,7 +53,6 @@ I'm a Computer Science student at **Florida International University** (GPA: 3.6
 **Salesforce** — Software Engineer Intern <sub>`May 2026 – Aug 2026 · Current`</sub>
 - Cut Spark logging costs by **~$300K/month (~$3.6M/yr)** by shipping a log-search REST API that streams, decompresses, and greps gzipped app logs from AWS S3, replacing the team's Splunk pipeline
 - Enabled an AI agent to autonomously diagnose Spark job failures by exposing the API as an **MCP tool** over an Envoy service-mesh mTLS connection
-- Restored 2–10 replica autoscaling on the Spark History Server by root-causing a Kubernetes ambiguous-selector bug and executing a zero-downtime Helm cutover
 - Shipped a **Claude Code plugin** bundling 4 MCP servers + 7 skills, collapsing Spark debugging into a single install
 
 **Salesforce** — Software Engineer Intern <sub>`Jun 2025 – Aug 2025`</sub>
@@ -114,12 +115,8 @@ Full-stack marketplace for FIU students to buy/sell school items.
 <img src="https://github-readme-stats.vercel.app/api?username=Luimoe05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Luimoe05&theme=tokyonight&hide_border=true" width="49%" />
 
-</div>
-
----
-
-<div align="center">
-
-⭐️ Thanks for stopping by — let's connect!
+<img src="https://github-profile-trophy.vercel.app/?username=Luimoe05&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
