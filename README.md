@@ -1,66 +1,101 @@
+<div align="center">
+
 # Hi, I'm Luis-Angel Moreno 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Luis,+a+CS+student+and+SWE+intern.;I+love+building+AI+powered+apps.;Welcome+to+my+GitHub+profile!;)
 
-I'm a Computer Science student at **Florida International University** (GPA: 3.61) and a **2x SWE Intern at Salesforce** (incoming summer 2026).  
-I love building impactful projects that help my community and push my skills forward.  
-I also work as a **CS Tutor at STARS FIU**, helping 500+ students across Data Structures, Operating Systems, and more.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi+there!+I'm+Luis%2C+a+CS+student+%26+SWE+intern.;Currently+building+infra+tools+%40+Salesforce.;I+love+shipping+AI-powered+developer+tools.;Welcome+to+my+GitHub+profile!)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-luismoreno.space-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.luismoreno.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisanm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisanm/)
+[![Email](https://img.shields.io/badge/Email-luismore200528%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismore200528@gmail.com)
 
-## 🛠️ Skills & Technologies
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projects
+### 🧭 About Me
 
-### Codifica
-An **AI-driven learning platform** designed to help non-native English speakers learn how to code.  
-Built with **React, Express, Node.js, PostgreSQL, and Prisma** during my Salesforce FTL internship.
+I'm a Computer Science student at **Florida International University** (GPA: 3.61, Class of 2027), currently a **2x Software Engineer Intern at Salesforce**, where I build infrastructure and AI-agent tooling for the Apache Spark platform.
 
-- In-browser IDE powered by **Judge0** (code execution) and **CodeMirror** (editor), supporting 3+ languages
-- AI assistant via **Gemini API**, giving tailored responses based on user language preferences
-- Optimized AI response time by **35%** through prompt engineering
-- 250+ term coding dictionary sourced from an open-source library
-
----
-
-### CreatorsFIU
-A **full-stack marketplace app** for FIU students to buy and sell school-related items.  
-Built with **React, TailwindCSS, and Firebase** with a team of 7+.
-
-- Built **15+ reusable components** for product listings, cards, and user profiles
-- Firebase authentication system, increasing user login speeds by **30%**
-- Authored **20+ user stories** to guide team development sprints
+- 🔭 Currently shipping a log-search API and MCP tooling for Spark observability at **Salesforce**
+- 🎓 Studying Data Structures, Operating Systems, Databases, and AI at **FIU**
+- 🧑‍🏫 Tutoring 500+ students in CS fundamentals as a **CS Tutor at STARS FIU**
+- 🎬 Director of Digital Media @ **INIT FIU** · Member @ **Colorstack**
+- 💬 Ask me about MCP, distributed systems, or full-stack web apps
 
 ---
 
-## 💼 Experience
+### 🛠️ Tech Stack
 
-**Salesforce** — Incoming Software Engineer Intern `May 2026 – Aug 2026`  
-&nbsp;&nbsp;&nbsp;&nbsp;Incoming SWE Intern on Data360 Cloud ORG.
+<div align="center">
 
-**Salesforce** — Software Engineer Intern `Jun 2025 – Aug 2025`  
-&nbsp;&nbsp;&nbsp;&nbsp;1 of 30 interns in the FTL program. Built and shipped Codifica with 2 teammates using the PERN stack.
+![Skills](https://skillicons.dev/icons?i=java,python,c,js,ts,react,nodejs,express,postgres,html,css,tailwind,firebase,docker,kubernetes,aws,git,githubactions)
 
-**STARS FIU** — Computer Science Tutor `Aug 2025 – Present`  
-&nbsp;&nbsp;&nbsp;&nbsp;Tutoring 500+ students across OOP, Data Structures, OS, and more. Improved exam scores by up to 25%.
+</div>
+
+<div align="center">
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-AC6199?style=flat&logo=envoyproxy&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white)
+
+</div>
 
 ---
 
-## 🤖 Repo AI
+### 💼 Experience
+
+**Salesforce** — Software Engineer Intern <sub>`May 2026 – Aug 2026 · Current`</sub>
+- Cut Spark logging costs by **~$300K/month (~$3.6M/yr)** by shipping a log-search REST API that streams, decompresses, and greps gzipped app logs from AWS S3, replacing the team's Splunk pipeline
+- Enabled an AI agent to autonomously diagnose Spark job failures by exposing the API as an **MCP tool** over an Envoy service-mesh mTLS connection
+- Restored 2–10 replica autoscaling on the Spark History Server by root-causing a Kubernetes ambiguous-selector bug and executing a zero-downtime Helm cutover
+- Shipped a **Claude Code plugin** bundling 4 MCP servers + 7 skills, collapsing Spark debugging into a single install
+
+**Salesforce** — Software Engineer Intern <sub>`Jun 2025 – Aug 2025`</sub>
+- 1 of 30 interns selected for the Salesforce FTL program; completed a 10-week, project-based full-stack curriculum on the PERN stack
+- Built and deployed **Codifica** with 2 teammates — a full-stack app helping non-native English speakers learn to code
+
+**STARS FIU** — Computer Science Tutor <sub>`Aug 2025 – Present`</sub>
+- Provided in-depth sessions to **500+ students** in OOP, Data Structures, Discrete Math, OS, and Software Engineering
+- Designed personalized learning plans, improving student exam scores by up to **25%**
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Codifica](https://github.com/Luimoe05)** · `React · Express · Node.js · PostgreSQL · Prisma`
+
+AI-powered platform helping non-native English speakers learn to code.
+- In-browser IDE via Judge0 + CodeMirror, 3+ languages
+- AI assistant via Gemini API, tuned to user language
+- Cut AI response time **35%** via prompt engineering
+- 250+ term coding dictionary, 30+ user testers
+
+</td>
+<td width="50%" valign="top">
+
+**[CreatorsFIU](https://github.com/Luimoe05)** · `React · TailwindCSS · Firebase`
+
+Full-stack marketplace for FIU students to buy/sell school items.
+- 15+ reusable components (listings, cards, profiles)
+- Firebase auth, boosting login speed **30%**
+- Authored 20+ user stories guiding sprint planning
+- Built with a team of 7+
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 Repo AI
 
 > Ask anything about my repositories — powered by Claude.
 
@@ -68,17 +103,23 @@ Built with **React, TailwindCSS, and Firebase** with a team of 7+.
 - *"How does CreatorsFIU handle authentication?"*
 - *"What's Luis's strongest area based on his projects?"*
 
-**[View my Portfolio →](https://www.luismoreno.space/)**  
-
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisanm/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luismore200528@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Luimoe05)
+**[Try it on my portfolio →](https://www.luismoreno.space/)**
 
 ---
 
-⭐️ Thanks for visiting my profile!
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Luimoe05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Luimoe05&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Thanks for stopping by — let's connect!
+
+</div>
