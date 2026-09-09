@@ -51,7 +51,6 @@ I'm a Computer Science student at **Florida International University** (GPA: 3.6
 ### 💼 Experience
 
 **Salesforce** — Software Engineer Intern <sub>`May 2026 – Aug 2026 · Current`</sub>
-- Cut Spark logging costs by **~$300K/month (~$3.6M/yr)** by shipping a log-search REST API that streams, decompresses, and greps gzipped app logs from AWS S3, replacing the team's Splunk pipeline
 - Enabled an AI agent to autonomously diagnose Spark job failures by exposing the API as an **MCP tool** over an Envoy service-mesh mTLS connection
 - Shipped a **Claude Code plugin** bundling 4 MCP servers + 7 skills, collapsing Spark debugging into a single install
 
